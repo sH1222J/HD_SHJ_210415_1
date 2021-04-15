@@ -1,4 +1,5 @@
 /*
+https://devkoboso.com/entry/Flow-control-Conditional-Statements
 1. 사용자로부터 숫자를 입력받아 입력받은수가 짝수면 짝수를 출력, 
 홀수면 홀수를 출력하는 프로그램만들기
 */
